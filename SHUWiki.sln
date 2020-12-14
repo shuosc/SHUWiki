@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHUWiki", "SHUWiki\SHUWiki.csproj", "{B8170676-62D7-4B92-A6AB-BB4A7945BAAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8170676-62D7-4B92-A6AB-BB4A7945BAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8170676-62D7-4B92-A6AB-BB4A7945BAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8170676-62D7-4B92-A6AB-BB4A7945BAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8170676-62D7-4B92-A6AB-BB4A7945BAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
